@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 - I’m a Software Developer
 - Working on the next big thing ☄
